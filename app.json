@@ -1,5 +1,5 @@
 {
-  "name": "Project Fizilion",
+  "name": "Fizilion",
   "description": "A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.",
   "logo": "https://github.com/ElytrA8/ProjectFizilion/raw/dragon/resources/Fizilion.png",
   "keywords": [
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ElytrA8/ProjectFizilion",
-  "website": "https://t.me/ElytrA8",
+  "repository": "https://github.com/royalturd/Fizilion",
+  "website": "https://t.me/Royal-Turd",
   "success_url": "https://t.me/ProjectFizilion",
   "stack": "container",
   "env": {
